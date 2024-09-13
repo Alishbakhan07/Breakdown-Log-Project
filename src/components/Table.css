@@ -1,0 +1,11 @@
+caption{
+    color: black;
+}
+table{
+    color: darkcyan;
+    
+}
+th{
+    border: 2px solid darkblue;
+    height: 100px;
+}
